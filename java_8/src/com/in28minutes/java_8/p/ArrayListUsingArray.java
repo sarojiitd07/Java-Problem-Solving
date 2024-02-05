@@ -6,7 +6,7 @@ public class ArrayListUsingArray{
 	public static void main(String[] args) {
 		Arraylist<Integer> myArrayList = new Arraylist<>();
 		
-//		myArrayList.removeElement();
+		myArrayList.removeElement();
 		myArrayList.addElement(1);
 		myArrayList.addElement(2);
 		myArrayList.addElement(3);
